@@ -102,7 +102,6 @@ nav a:hover{
     transform: translate(-50%, -50%);
 }
 iframe{
-    padding-top: 100px;
-    padding-left: 400px;
-    position: fixed;
+    margin-left: 420px;
+    margin-top: 80px;
 }
