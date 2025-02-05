@@ -41,7 +41,7 @@ nav a:hover{
     font-size: 25px;
     padding-left: 250px;
     display: grid;
-    margin: 0;
+    margin: right;
     position: fixed
 }
 .title{
